@@ -1,0 +1,8 @@
+git branch 
+
+Para listar los branch 
+
+git checkout -b "nombre del nuevo branch"
+
+git checkout  <Nombre del archivo o id del log>
+
