@@ -1,3 +1,8 @@
 para agregar un archivo se hace con git add y el nombre del archivo
 
-Con "git add ." agrego todos los archivos nuevos 
+Con "git add ." agrego todos los archivos nuevos y los modificados 
+
+para hacer el commit 
+
+git commit -m "modificaciones con el unstage"
+
