@@ -1,0 +1,1 @@
+para agregar un archivo se hace con git.add y el nombre del archivo

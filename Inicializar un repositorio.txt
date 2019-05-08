@@ -1,0 +1,2 @@
+Para inicializar un repositorio ejecutar el siguiente comando 
+git init 
