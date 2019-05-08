@@ -1,0 +1,4 @@
+Los archivos que estan en stage son los que estan listos para commitear 
+Si los quiero sacar de ese estado tengo que ejecutar el comando
+
+git reset HEAD  <Nombre del archivo> 
