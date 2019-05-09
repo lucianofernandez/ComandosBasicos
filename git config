@@ -1,0 +1,9 @@
+git config 
+
+git config --list 
+
+sirve para listar las configuraciones
+
+git config --global  <configuracion> <valor>
+
+sirve para configurar una variable 
