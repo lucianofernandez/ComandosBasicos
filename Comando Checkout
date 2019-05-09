@@ -1,0 +1,3 @@
+Este comando es para volver el archivo a la ultima version guardada en el repo. deshace todos los cambios 
+
+git --checkout <Nombre del archivo>
