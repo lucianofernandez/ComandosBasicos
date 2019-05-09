@@ -1,0 +1,5 @@
+git log 
+
+Sirve para listar todos los commit 
+
+El codigo que aparece en el log se llama hash y sirve para identificar de manera unica al commit 
